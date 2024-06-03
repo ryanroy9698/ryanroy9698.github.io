@@ -26,7 +26,7 @@ LinkedIn URL: [LinkedIn](https://www.linkedin.com/in/riyan-roy-9b3955132)
 
 ---
 
-## Relevant Work Experience (Industry)
+## Work Experience (Industry)
 
 ### R&D Process Engineer Co-op - Svante Inc (September 2023 – April 2024)
 
@@ -43,7 +43,7 @@ LinkedIn URL: [LinkedIn](https://www.linkedin.com/in/riyan-roy-9b3955132)
 - Utilized Aspen HYSYS for simulating plant behavior and optimizing system performance.
 - Provided a novel water treatment solution, recommending Veolia ActinaTM for enhanced water quality.
 
-### Assistant Supervisor: Quality Control & Auditing
+#### Assistant Supervisor: Quality Control & Auditing
 
 - Implemented quality improvement procedures, achieving a 20% reduction in defects.
 - Supervised internal quality audit program for 50+ audits, generating monthly audit reports.
