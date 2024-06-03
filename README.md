@@ -36,6 +36,7 @@ LinkedIn URL: [LinkedIn](https://www.linkedin.com/in/riyan-roy-9b3955132)
 - Developed and validated applications using Python for KPI calculations, Mass Balance, Breakthrough Testing, and Pressure Drop Testing, specializing in carbon capture projects.
 - Led mass balance initiatives, providing recommendations and addressing daily issues with mass spectroscopic signals.
 - Designed and implemented KPI dashboards for real-time monitoring of crucial metrics, employing system profile visuals for comprehensive insights and process improvement in capturing carbon at pilot scale.
+**More information about the VeloxoTherm^TM Process** [Svante Reference:](https://www.svanteinc.com/carbon-capture-technology)
 
 ### Process Engineer - L&T Technology Services (July 2020 – September 2022)
 
