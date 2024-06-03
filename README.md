@@ -1,9 +1,9 @@
 # Riyan Roy
 
-Location: Burnaby, British Columbia  
-Email: riyan.roy@mail.utoronto.ca  
-Project Portfolio: [Github Link](https://github.com/ryanroy9698?tab=repositories) 
-LinkedIn URL: [LinkedIn](https://www.linkedin.com/in/riyan-roy-9b3955132)
+Location: Burnaby, British Columbia<br>
+Email: riyan.roy@mail.utoronto.ca<br>  
+Project Portfolio: [Github Link](https://github.com/ryanroy9698?tab=repositories)<br> 
+LinkedIn URL: [LinkedIn](https://www.linkedin.com/in/riyan-roy-9b3955132)<br>
 
 ---
 
