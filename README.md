@@ -2,36 +2,40 @@
 
 Location: Burnaby, British Columbia  
 Email: riyan.roy@mail.utoronto.ca  
-LinkedIn: [linkedin.com/in/riyan-roy-9b3955132](https://www.linkedin.com/in/riyan-roy-9b3955132)
+Project Portfolio: [Github Link](https://github.com/ryanroy9698?tab=repositories) 
+LinkedIn URL: [LinkedIn](https://www.linkedin.com/in/riyan-roy-9b3955132)
 
 ---
 
 ## Summary
 
-- Process Engineer with 3+ years of experience in process control, plant engineering, modeling, simulation, and software development.
-- Specialized in designing and developing treatment technologies for water and wastewater treatment plants.
+- Process Engineer Specialist with 3+ year of experience in Process Data Analysis, Carbon Capture & Storage, Process Development, First Principles based Modelling & Simulation, Adsorption, Characterization, Cycle Testing, Data Science & Machine Learning.
+- Extensive Experience in deploying data-driven methodologies to address challenges in the process industry, adept at optimizing operations, creating real time dashboards for monitoring process parameters.
+- Experience in designing and developing treatment technologies for water and wastewater treatment plants.
 - Proficient in deploying data-driven methodologies, optimizing operations, and creating real-time dashboards for informed decision-making.
 
 ### Skills
 
-- **Programming Languages:** Python, Pyspark, MATLAB, SQL.
-- **Data Visualization:** Plotly Dash, Matplotlib, Seaborn, Bokeh, Tableau, Power BI.
-- **Water Treatment:** P&IDs, RO Membrane Projections, Water/Wastewater Treatment Schema.
+- **Carbon Capture:**  Adsorption, Sorbent Characterization, Cycle Testing, Process Development, Sensitivity Analysis, Heat & Mass Balance.
 - **Process Engineering:** P&IDs, PFDs, Aspen HYSYS, HTRI, PLC/DCS, Control Philosophy, Modeling & Simulation.
+- **Programming Languages:** Python, Pyspark, MATLAB, SQL, NoSQL.
+- **Data Visualization:** Plotly Dash, Matplotlib, Seaborn, Bokeh, Tableau, Power BI.
 - **Data Analysis:** Data Wrangling, Exploratory Data Analysis, Dimensionality Reduction, Optimization, Model Drift.
+- **Water Treatment:** P&IDs, RO Membrane Projections, Water/Wastewater Treatment Schema.
 
 ---
 
 ## Relevant Work Experience (Industry)
 
-### R&D Process Engineer Co-op - Svante Inc (Sept '23 – Present)
+### R&D Process Engineer Co-op - Svante Inc (September 2023 – April 2024)
 
-- Developed and validated multiple applications using Python for KPI calculations and complex data automation on Azure Datalake.
-- Designed and implemented KPI dashboards for real-time monitoring using Plotly Dash and Power BI.
-- Led mass balance initiatives, troubleshooted KPI deviations, and applied data analytics techniques.
-- Supported the modeling team in updating process models and training AI models for optimization.
+- Analyzed 150+ operational process tests and instruments to identify trends, contributing to cycle testing, parameter selection, and process development.
+- Studied competitive CO2/H2O adsorption (CALF-20 and amine-based adsorbents) and energy consumption, optimizing processes through ML-based multi-objective optimization. Validated model predictions through Test Station demonstrations.
+- Developed and validated applications using Python for KPI calculations, Mass Balance, Breakthrough Testing, and Pressure Drop Testing, specializing in carbon capture projects.
+- Led mass balance initiatives, providing recommendations and addressing daily issues with mass spectroscopic signals.
+- Designed and implemented KPI dashboards for real-time monitoring of crucial metrics, employing system profile visuals for comprehensive insights and process improvement in capturing carbon at pilot scale.
 
-### Process Engineer - L&T Technology Services (July '20 – Sept '22)
+### Process Engineer - L&T Technology Services (July 2020 – September 2022)
 
 - Conducted a comprehensive review resulting in a 40% increase in water treatment capacity.
 - Led a greenfield project for an FMCG major in Europe with a 5/5 client rating.
@@ -45,7 +49,7 @@ LinkedIn: [linkedin.com/in/riyan-roy-9b3955132](https://www.linkedin.com/in/riya
 
 ---
 
-## Relevant Work Experience (Academia)
+## Industrial Projects / Work Experience (Academia)
 
 ### Graduate Research Assistant - University of Toronto (Jan '23 – Present)
 
@@ -68,7 +72,7 @@ LinkedIn: [linkedin.com/in/riyan-roy-9b3955132](https://www.linkedin.com/in/riya
 
 ---
 
-## Education & Relevant Coursework
+## Education & Coursework
 
 **University of Toronto:** MEng in Chemical Engineering with an Emphasis in Data Analytics (Sept '22 – April '24)
 
@@ -78,20 +82,25 @@ LinkedIn: [linkedin.com/in/riyan-roy-9b3955132](https://www.linkedin.com/in/riya
 - Process Data Analytics (CHE1148)
 - Foundation of Data Analytics & ML (APS1070)
 - Cloud-Based Data Analytics (MIE1628)
+- Introduction to Data Science and Analytics (MIE1624)
 
 ---
 
 ## Personal Projects
 
-1. Financial Data Modeling for Fault Prediction
-2. Healthcare Analytics
-3. Recommender System
-4. Intrusion Detection System
-5. Miscellaneous Projects
+1. Predictive Analytics & Multi-objective Optimization in Process Engineering: Case Study on a Sulfur Recovery Unit
+2. Multivariate Regression Modelling for NOx and Carbon Monoxide Gas Emission Prediction from a Gas Processing Plant in Turkey
+3. Tennessee Eastman Process: Multiclass-classification Problem for Anomaly/Fault Detection in Chemical Plant - Industry 4.0
+4. Principal Component Analysis application in process engineering for creating optimal batch size for a chemical plant
+6. Healthcare Analytics
+7. Financial Data Modeling for Fault Prediction
+8. Recommender System
+9. Intrusion Detection System
+10. Miscellaneous Projects
 
 ---
 
-## Main Project Focus
+## Main Research Focus
 
 My primary focus is on the application of Artificial Intelligence in Process Engineering, Control, and Modeling.
 
