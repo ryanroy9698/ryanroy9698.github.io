@@ -89,15 +89,12 @@ LinkedIn URL: [LinkedIn](https://www.linkedin.com/in/riyan-roy-9b3955132)
 
 ## Personal Projects
 
-1. Predictive Analytics & Multi-objective Optimization in Process Engineering: Case Study on a Sulfur Recovery Unit
-2. Multivariate Regression Modelling for NOx and Carbon Monoxide Gas Emission Prediction from a Gas Processing Plant in Turkey
-3. Tennessee Eastman Process: Multiclass-classification Problem for Anomaly/Fault Detection in Chemical Plant - Industry 4.0
-4. Principal Component Analysis application in process engineering for creating optimal batch size for a chemical plant
-6. Healthcare Analytics
-7. Financial Data Modeling for Fault Prediction
-8. Recommender System
-9. Intrusion Detection System
-10. Miscellaneous Projects
+1. Principal Component Analysis application in process engineering for creating optimal batch size for a chemical plant
+2. Healthcare Analytics
+3. Financial Data Modeling for Fault Prediction
+4. Recommender System
+5. Intrusion Detection System
+6. Miscellaneous Projects
 
 ---
 
